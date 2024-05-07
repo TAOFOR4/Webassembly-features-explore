@@ -1,0 +1,10 @@
+/home/tao/Desktop/Webassembly-features-explore/webassembly components/examples/rust and c/Rust/target/debug/deps/libwit_bindgen_core-f2f00b35aa4dd455.rmeta: /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/tao/Desktop/Webassembly-features-explore/webassembly components/examples/rust and c/Rust/target/debug/deps/libwit_bindgen_core-f2f00b35aa4dd455.rlib: /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/tao/Desktop/Webassembly-features-explore/webassembly components/examples/rust and c/Rust/target/debug/deps/wit_bindgen_core-f2f00b35aa4dd455.d: /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs /home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/lib.rs:
+/home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/abi.rs:
+/home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/ns.rs:
+/home/tao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.24.0/src/source.rs:
