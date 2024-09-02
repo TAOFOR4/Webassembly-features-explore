@@ -1,1 +1,0 @@
-/home/tao/Desktop/Webassembly-features-explore/webassembly\ components/examples/rust\ and\ c/Rust/target/wasm32-wasi/debug/my_project.wasm: /home/tao/Desktop/Webassembly-features-explore/webassembly\ components/examples/rust\ and\ c/Rust/src/lib.rs /home/tao/Desktop/Webassembly-features-explore/webassembly\ components/examples/rust\ and\ c/Rust/wit/host.wit
